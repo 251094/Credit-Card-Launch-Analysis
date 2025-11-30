@@ -98,7 +98,7 @@ SQL: Data extraction & cleaning
 
 Excel: Validation & preprocessing
 
-Visualization: Power BI / Tableau
+Visualization: Jupyter Notebook (Matplotlib, Seaborn)
 
 Statistics: A/B Testing, Z-test, Hypothesis Testing
 
