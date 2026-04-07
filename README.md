@@ -1,7 +1,7 @@
 <h2 align="center">💳 Credit Card A/B Testing & Market Analysis</h2>
 
 <p align="center">
-  <img src="image2.jpg" width="900"/>
+  <img src="image2.png" width="900"/>
 </p>
 
 <p align="center">
