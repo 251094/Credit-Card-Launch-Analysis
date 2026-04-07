@@ -1,3 +1,13 @@
+<h2 align="center">💳 Credit Card A/B Testing & Market Analysis</h2>
+
+<p align="center">
+  <img src="image2.jpg" width="900"/>
+</p>
+
+<p align="center">
+  📊 +40% Conversion | 📈 Statistically Significant | 🎯 Targeted 18–25 Segment
+</p>
+
 📈 Credit Card Launch A/B Testing & Market Analysis
 📝 Project Overview
 
